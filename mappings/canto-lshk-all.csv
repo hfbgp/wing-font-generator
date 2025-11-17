@@ -10184,6 +10184,7 @@ B,bi1,
 面試,min6 si5,2
 保住,bou2 zyu6,2
 合格,hap6 gaak3,2
+唔合格,m4 hap6 gaak3,3
 海景,hoi2 ging2,2
 誤導,ng6 dou6,2
 公道,gung1 dou6,2
@@ -17009,6 +17010,7 @@ B,bi1,
 醬油,zoeng3 jau4,2
 松鼠,cung4 syu2,2
 高檔,gou1 dong3,2
+咁高檔,gam3 gou1 dong3,3
 接機,zip3 gei1,2
 前路,cin4 lou6,2
 地中海,dei6 zung1 hoi2,2
@@ -19424,7 +19426,6 @@ B,bi1,
 倍增,pui5 zang1,2
 手提電腦,sau2 tai4 din6 nou5,2
 竄,cyun2,2
-打人,daa2 jan4,2
 墊底,zin3 dai2,2
 做節,zou6 zit3,2
 得咗,dak1 zo2,2
@@ -22312,6 +22313,8 @@ B,bi1,
 通電,tung1 din6,2
 凱撒,hoi2 saat3,2
 你聽,nei5 teng1,2
+你聽吓,nei5 teng1 haa2,3
+你聽下,nei5 teng1 haa2,3
 投考,tau4 haau2,2
 憫,man5,2
 爆發力,baau3 faat3 lik6,2
@@ -220425,6 +220428,7 @@ oth,gam1 gaai3,2
 会睇,wui5 tai2,2
 酱油,zoeng3 jau4,2
 高档,gou1 dong3,2
+咁高档,gam3 gou1 dong3,3
 接机,zip3 gei1,2
 仲话,zung6 waa6,2
 得体,dak1 tai2,2
@@ -223325,6 +223329,8 @@ oth,gam1 gaai3,2
 通电,tung1 din6,2
 凯撒,hoi2 saat3,2
 你听,nei5 teng1,2
+你听吓,nei5 teng1 haa2,3
+你听下,nei5 teng1 haa2,3
 悯,man5,2
 爆发力,baau3 faat3 lik6,2
 潜伏期,cim4 fuk6 kei4,2
