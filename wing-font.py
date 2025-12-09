@@ -58,7 +58,7 @@ def main(
     cn_name=None,
     tw_name=None,
     hk_name=None,
-    base_scale=0.60,
+    base_scale=0.65,
     anno_scale=0.35,
     anno_y_offset=0.70,
     base_y_offset=0.0,
@@ -177,8 +177,8 @@ if __name__ == "__main__":
     parser.add_argument('-m', '--mapping', help="CSV file for the mapping between base font and annotation font", required=True)
     parser.add_argument('-ay', '--anno-y-offset', type=float, default=0.7, help="Y offset in (percentage) for annotation string")
     parser.add_argument('-by', '--base-y-offset', type=float, default=0.0, help="Y offset in (percentage) for base font string (default: 0.0)")
-    parser.add_argument('-bs', '--base-scale', type=float, default=0.60, help="The scaling factor for the base font")
-    parser.add_argument('-as', '--anno-scale', type=float, default=0.35, help="The scaling factor for the base font")
+    parser.add_argument('-bs', '--base-scale', type=float, default=0.65, help="The scaling factor for the base font")
+    parser.add_argument('-as', '--anno-scale', type=float, default=0.35, help="The scaling factor for the annotation font")
     parser.add_argument('-br', '--base-rotate', type=float, default=0.0, help="Rotation (in degrees) for the base font glyph (default: 0.0)")
     parser.add_argument('-ar', '--anno-rotate', type=float, default=0.0, help="Rotation (in degrees) for the annotation string (default: 0.0)")
     parser.add_argument('-lsb', '--min-lsb', type=int, default=None, help="Force minimum LSB value (e.g., 0). If not set, LSB can be negative. (default: None)")

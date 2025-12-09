@@ -55,7 +55,7 @@ def _get_string_relative_bounds(font, glyph_set, glyph_order, text, scale, cos, 
 
 def generate_glyphs(
     base_font, anno_font, output_font, mapping, 
-    anno_scale=0.35, base_scale=0.60, 
+    anno_scale=0.35, base_scale=0.65, 
     anno_y_offset=0.70, base_y_offset=0.0,
     base_rotate=0.0, anno_rotate=0.0,
     min_lsb=None,
