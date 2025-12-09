@@ -8,6 +8,14 @@ BB,bi4 bi1,
 丅,haa6,3
 隊,dei6,
 扯,coe2,3
+咁糠,gam3 hong2,3
+好糠,hou2 hong2,3
+咁䉺,gam3 hong2,3
+好䉺,hou2 hong2,3
+頭髮糠,tau4 faat3 hong2,3
+頭髮䉺,tau4 faat3 hong2,3
+扑暈,bok1 wan4,3
+好喎吓,hou2 wo3 haa2,3
 咁畀面,gam3 bei2 min2,3
 咁俾面,gam3 bei2 min2,3
 疉,daap6,3
@@ -13004,6 +13012,7 @@ BB,bi4 bi1,
 恤衫,seot1 saam1,2
 妓女,gei6 neoi5,2
 緣份,jyun4 fan6,2
+緣分,jyun4 fan6,3
 馬力,maa5 lik6,2
 擔當,daam1 dong1,2
 遺傳,wai4 cyun4,2
@@ -22062,7 +22071,7 @@ BB,bi4 bi1,
 抽搐,cau1 cuk1,2
 反常,faan2 soeng4,2
 光速,gwong1 cuk1,2
-扑頭,pok3 tau4,2
+扑頭,bok1 tau4,3
 豬油,zyu1 jau4,2
 絕症,zyut6 zing3,2
 詫,caa3,2
@@ -32826,7 +32835,6 @@ BB,bi4 bi1,
 長髮,coeng4 faat3,2
 技窮,gei6 kung4,2
 兇器,hung1 hei3,2
-有緣,jau5 jyun4,2
 揚聲器,joeng4 sing1 hei3,2
 沿住,jyun4 zyu6,2
 排長,paai4 zoeng2,2
@@ -43612,7 +43620,7 @@ BB,bi4 bi1,
 馬拉糕,maa5 laai1 gou1,2
 賣了,maai6 liu5,2
 南丫,naam4 aa1,2
-扑野,pok3 je5,2
+扑野,bok1 je5,3
 三段,saam1 dyun6,2
 西米露,sai1 mai5 lou6,2
 為着,wai6 zoek6,2
@@ -142634,7 +142642,6 @@ oth,gam1 gaai3,2
 交睫,gaau1 zit3,
 膠着,gaau1 zoek6,
 夠雷,gaau3 leoi4,
-夠皮,gaau3 pei2,
 搞不明,gaau2 bat1 ming4,
 搞邊科啊,gaau2 bin1 fo1 aa3,
 搞出個大頭甶,gaau2 ceot1 go3 daai6 tau4 fat6,
@@ -142794,7 +142801,7 @@ oth,gam1 gaai3,2
 覲見,gan6 gin3,
 近嚟,gan6 lai4,
 近年,gan6 nin2,
-近排,gan6 paai2,
+近排,gan6 paai2,3
 近衞文麿,gan6 wai6 man4 leoi5,
 跟錯,gan1 co3,
 跟下,gan1 haa5,
@@ -212498,7 +212505,13 @@ oth,gam1 gaai3,2
 措过,cou5 gwo3,
 措笔,cou5 bat1,
 措齐,cou5 cai4,
+𰓱,hang1
 队,dei6,
+头发糠,tau4 faat3 hong2,3
+头发䉺,tau4 faat3 hong2,3
+缘分,jyun4 fan6,3
+扑晕,bok1 wan4,3
+好㖞吓,hou2 wo3 haa2,3
 坏仔,kwaai4 zai2,3
 这钱,ze5 cin2,3
 那钱,naa5 cin2,3
@@ -223220,7 +223233,7 @@ oth,gam1 gaai3,2
 地质,dei6 zat1,2
 个身,go3 san1,2
 守行为,sau2 hang4 wai4,2
-扑头,pok3 tau4,2
+扑头,bok1 tau4,3
 猪油,zyu1 jau4,2
 绝症,zyut6 zing3,2
 诧,caa3,2
@@ -294333,7 +294346,6 @@ oth,gam1 gaai3,2
 交汇处,gaau1 wui6 cyu3,
 胶着,gaau1 zoek6,
 够雷,gaau3 leoi4,
-够皮,gaau3 pei2,
 搞边科啊,gaau2 bin1 fo1 aa3,
 搞出个大头甶,gaau2 ceot1 go3 daai6 tau4 fat6,
 搞得埋栏,gaau2 dak1 maai4 laan1,
